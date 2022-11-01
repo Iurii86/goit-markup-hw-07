@@ -1,10 +1,13 @@
-@import "./base/reset";
-@import "./base/common";
-@import "./utils/variables";
-@import "./components/button";
-@import "./components/modal";
 @import "./utils/section";
 @import "./utils/hidden";
+@import "./utils/variables";
+
+@import "./base/reset";
+@import "./base/common";
+
+@import "./components/button";
+@import "./components/modal";
+
 
 @import "./layouts/header";
 @import "./layouts/hero";
